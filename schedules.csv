@@ -1,0 +1,6 @@
+EmployeeID,Name,Day,Shift
+101,John Doe,Monday,Morning
+101,John Doe,Monday,Night
+102,Jane Smith,Monday,Night
+102,Jane Smith,Tuesday,Night
+103,Sam Brown,Wednesday,Afternoon

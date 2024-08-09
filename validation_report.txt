@@ -1,0 +1,356 @@
+EmployeeID: 100, worked more than one shift on Friday.
+EmployeeID: 100, worked more than one shift on Monday.
+EmployeeID: 100, worked more than one shift on Saturday.
+EmployeeID: 100, worked more than one shift on Sunday.
+EmployeeID: 100, worked more than one shift on Tuesday.
+EmployeeID: 100, worked more than one shift on Wednesday.
+EmployeeID: 101, worked more than one shift on Saturday.
+EmployeeID: 102, worked more than one shift on Sunday.
+EmployeeID: 102, worked more than one shift on Thursday.
+EmployeeID: 102, worked more than one shift on Wednesday.
+EmployeeID: 103, worked more than one shift on Friday.
+EmployeeID: 103, worked more than one shift on Monday.
+EmployeeID: 103, worked more than one shift on Saturday.
+EmployeeID: 103, worked more than one shift on Sunday.
+EmployeeID: 103, worked more than one shift on Tuesday.
+EmployeeID: 104, worked more than one shift on Saturday.
+EmployeeID: 104, worked more than one shift on Sunday.
+EmployeeID: 104, worked more than one shift on Thursday.
+EmployeeID: 105, worked more than one shift on Saturday.
+EmployeeID: 105, worked more than one shift on Thursday.
+EmployeeID: 105, worked more than one shift on Tuesday.
+EmployeeID: 106, worked more than one shift on Monday.
+EmployeeID: 106, worked more than one shift on Saturday.
+EmployeeID: 106, worked more than one shift on Sunday.
+EmployeeID: 106, worked more than one shift on Thursday.
+EmployeeID: 107, worked more than one shift on Friday.
+EmployeeID: 107, worked more than one shift on Saturday.
+EmployeeID: 107, worked more than one shift on Tuesday.
+EmployeeID: 107, worked more than one shift on Wednesday.
+EmployeeID: 108, worked more than one shift on Thursday.
+EmployeeID: 109, worked more than one shift on Monday.
+EmployeeID: 109, worked more than one shift on Tuesday.
+EmployeeID: 110, worked more than one shift on Friday.
+EmployeeID: 110, worked more than one shift on Sunday.
+EmployeeID: 110, worked more than one shift on Tuesday.
+EmployeeID: 110, worked more than one shift on Wednesday.
+EmployeeID: 111, worked more than one shift on Monday.
+EmployeeID: 111, worked more than one shift on Sunday.
+EmployeeID: 111, worked more than one shift on Thursday.
+EmployeeID: 112, worked more than one shift on Friday.
+EmployeeID: 112, worked more than one shift on Monday.
+EmployeeID: 112, worked more than one shift on Sunday.
+EmployeeID: 112, worked more than one shift on Thursday.
+EmployeeID: 112, worked more than one shift on Tuesday.
+EmployeeID: 112, worked more than one shift on Wednesday.
+EmployeeID: 113, worked more than one shift on Friday.
+EmployeeID: 113, worked more than one shift on Monday.
+EmployeeID: 113, worked more than one shift on Thursday.
+EmployeeID: 116, worked more than one shift on Friday.
+EmployeeID: 116, worked more than one shift on Saturday.
+EmployeeID: 117, worked more than one shift on Tuesday.
+EmployeeID: 118, worked more than one shift on Friday.
+EmployeeID: 118, worked more than one shift on Tuesday.
+EmployeeID: 119, worked more than one shift on Monday.
+EmployeeID: 119, worked more than one shift on Tuesday.
+EmployeeID: 119, worked more than one shift on Wednesday.
+EmployeeID: 120, worked more than one shift on Friday.
+EmployeeID: 120, worked more than one shift on Monday.
+EmployeeID: 120, worked more than one shift on Saturday.
+EmployeeID: 120, worked more than one shift on Sunday.
+EmployeeID: 120, worked more than one shift on Thursday.
+EmployeeID: 121, worked more than one shift on Friday.
+EmployeeID: 121, worked more than one shift on Thursday.
+EmployeeID: 122, worked more than one shift on Tuesday.
+EmployeeID: 122, worked more than one shift on Wednesday.
+EmployeeID: 123, worked more than one shift on Friday.
+EmployeeID: 123, worked more than one shift on Monday.
+EmployeeID: 123, worked more than one shift on Saturday.
+EmployeeID: 124, worked more than one shift on Friday.
+EmployeeID: 124, worked more than one shift on Saturday.
+EmployeeID: 124, worked more than one shift on Sunday.
+EmployeeID: 124, worked more than one shift on Wednesday.
+EmployeeID: 125, worked more than one shift on Monday.
+EmployeeID: 125, worked more than one shift on Wednesday.
+EmployeeID: 126, worked more than one shift on Saturday.
+EmployeeID: 126, worked more than one shift on Tuesday.
+EmployeeID: 126, worked more than one shift on Wednesday.
+EmployeeID: 127, worked more than one shift on Saturday.
+EmployeeID: 127, worked more than one shift on Wednesday.
+EmployeeID: 128, worked more than one shift on Thursday.
+EmployeeID: 128, worked more than one shift on Tuesday.
+EmployeeID: 129, worked more than one shift on Friday.
+EmployeeID: 129, worked more than one shift on Monday.
+EmployeeID: 129, worked more than one shift on Sunday.
+EmployeeID: 129, worked more than one shift on Thursday.
+EmployeeID: 129, worked more than one shift on Wednesday.
+EmployeeID: 130, worked more than one shift on Monday.
+EmployeeID: 130, worked more than one shift on Saturday.
+EmployeeID: 130, worked more than one shift on Thursday.
+EmployeeID: 130, worked more than one shift on Tuesday.
+EmployeeID: 131, worked more than one shift on Monday.
+EmployeeID: 132, worked more than one shift on Monday.
+EmployeeID: 132, worked more than one shift on Tuesday.
+EmployeeID: 132, worked more than one shift on Wednesday.
+EmployeeID: 133, worked more than one shift on Friday.
+EmployeeID: 133, worked more than one shift on Sunday.
+EmployeeID: 133, worked more than one shift on Tuesday.
+EmployeeID: 134, worked more than one shift on Saturday.
+EmployeeID: 134, worked more than one shift on Wednesday.
+EmployeeID: 135, worked more than one shift on Monday.
+EmployeeID: 135, worked more than one shift on Thursday.
+EmployeeID: 135, worked more than one shift on Tuesday.
+EmployeeID: 135, worked more than one shift on Wednesday.
+EmployeeID: 136, worked more than one shift on Friday.
+EmployeeID: 136, worked more than one shift on Saturday.
+EmployeeID: 136, worked more than one shift on Thursday.
+EmployeeID: 136, worked more than one shift on Tuesday.
+EmployeeID: 136, worked more than one shift on Wednesday.
+EmployeeID: 137, worked more than one shift on Friday.
+EmployeeID: 137, worked more than one shift on Monday.
+EmployeeID: 137, worked more than one shift on Sunday.
+EmployeeID: 138, worked more than one shift on Tuesday.
+EmployeeID: 139, worked more than one shift on Friday.
+EmployeeID: 139, worked more than one shift on Sunday.
+EmployeeID: 139, worked more than one shift on Wednesday.
+EmployeeID: 140, worked more than one shift on Friday.
+EmployeeID: 140, worked more than one shift on Wednesday.
+EmployeeID: 141, worked more than one shift on Friday.
+EmployeeID: 141, worked more than one shift on Saturday.
+EmployeeID: 141, worked more than one shift on Thursday.
+EmployeeID: 141, worked more than one shift on Wednesday.
+EmployeeID: 142, worked more than one shift on Friday.
+EmployeeID: 142, worked more than one shift on Sunday.
+EmployeeID: 142, worked more than one shift on Thursday.
+EmployeeID: 143, worked more than one shift on Friday.
+EmployeeID: 143, worked more than one shift on Monday.
+EmployeeID: 143, worked more than one shift on Thursday.
+EmployeeID: 143, worked more than one shift on Tuesday.
+EmployeeID: 143, worked more than one shift on Wednesday.
+EmployeeID: 144, worked more than one shift on Friday.
+EmployeeID: 144, worked more than one shift on Monday.
+EmployeeID: 144, worked more than one shift on Saturday.
+EmployeeID: 145, worked more than one shift on Saturday.
+EmployeeID: 145, worked more than one shift on Sunday.
+EmployeeID: 146, worked more than one shift on Monday.
+EmployeeID: 146, worked more than one shift on Thursday.
+EmployeeID: 146, worked more than one shift on Tuesday.
+EmployeeID: 146, worked more than one shift on Wednesday.
+EmployeeID: 147, worked more than one shift on Monday.
+EmployeeID: 147, worked more than one shift on Thursday.
+EmployeeID: 147, worked more than one shift on Wednesday.
+EmployeeID: 148, worked more than one shift on Sunday.
+EmployeeID: 148, worked more than one shift on Wednesday.
+EmployeeID: 149, worked more than one shift on Monday.
+EmployeeID: 149, worked more than one shift on Thursday.
+EmployeeID: 149, worked more than one shift on Tuesday.
+EmployeeID: 150, worked more than one shift on Saturday.
+EmployeeID: 150, worked more than one shift on Thursday.
+EmployeeID: 151, worked more than one shift on Monday.
+EmployeeID: 151, worked more than one shift on Saturday.
+EmployeeID: 152, worked more than one shift on Saturday.
+EmployeeID: 152, worked more than one shift on Thursday.
+EmployeeID: 153, worked more than one shift on Friday.
+EmployeeID: 153, worked more than one shift on Monday.
+EmployeeID: 153, worked more than one shift on Sunday.
+EmployeeID: 153, worked more than one shift on Thursday.
+EmployeeID: 153, worked more than one shift on Tuesday.
+EmployeeID: 154, worked more than one shift on Thursday.
+EmployeeID: 154, worked more than one shift on Tuesday.
+EmployeeID: 154, worked more than one shift on Wednesday.
+EmployeeID: 155, worked more than one shift on Friday.
+EmployeeID: 156, worked more than one shift on Saturday.
+EmployeeID: 156, worked more than one shift on Tuesday.
+EmployeeID: 157, worked more than one shift on Tuesday.
+EmployeeID: 157, worked more than one shift on Wednesday.
+EmployeeID: 158, worked more than one shift on Friday.
+EmployeeID: 158, worked more than one shift on Sunday.
+EmployeeID: 158, worked more than one shift on Thursday.
+EmployeeID: 158, worked more than one shift on Tuesday.
+EmployeeID: 158, worked more than one shift on Wednesday.
+EmployeeID: 159, worked more than one shift on Friday.
+EmployeeID: 160, worked more than one shift on Saturday.
+EmployeeID: 160, worked more than one shift on Tuesday.
+EmployeeID: 161, worked more than one shift on Friday.
+EmployeeID: 161, worked more than one shift on Tuesday.
+EmployeeID: 162, worked more than one shift on Monday.
+EmployeeID: 162, worked more than one shift on Saturday.
+EmployeeID: 162, worked more than one shift on Thursday.
+EmployeeID: 162, worked more than one shift on Wednesday.
+EmployeeID: 163, worked more than one shift on Saturday.
+EmployeeID: 164, worked more than one shift on Saturday.
+EmployeeID: 165, worked more than one shift on Saturday.
+EmployeeID: 165, worked more than one shift on Sunday.
+EmployeeID: 165, worked more than one shift on Thursday.
+EmployeeID: 165, worked more than one shift on Wednesday.
+EmployeeID: 166, worked more than one shift on Friday.
+EmployeeID: 166, worked more than one shift on Saturday.
+EmployeeID: 167, worked more than one shift on Friday.
+EmployeeID: 167, worked more than one shift on Sunday.
+EmployeeID: 167, worked more than one shift on Thursday.
+EmployeeID: 167, worked more than one shift on Wednesday.
+EmployeeID: 168, worked more than one shift on Thursday.
+EmployeeID: 168, worked more than one shift on Tuesday.
+EmployeeID: 169, worked more than one shift on Monday.
+EmployeeID: 169, worked more than one shift on Saturday.
+EmployeeID: 169, worked more than one shift on Sunday.
+EmployeeID: 169, worked more than one shift on Tuesday.
+EmployeeID: 169, worked more than one shift on Wednesday.
+EmployeeID: 170, worked more than one shift on Friday.
+EmployeeID: 170, worked more than one shift on Monday.
+EmployeeID: 170, worked more than one shift on Thursday.
+EmployeeID: 170, worked more than one shift on Tuesday.
+EmployeeID: 171, worked more than one shift on Friday.
+EmployeeID: 171, worked more than one shift on Saturday.
+EmployeeID: 171, worked more than one shift on Thursday.
+EmployeeID: 171, worked more than one shift on Tuesday.
+EmployeeID: 172, worked more than one shift on Friday.
+EmployeeID: 172, worked more than one shift on Monday.
+EmployeeID: 172, worked more than one shift on Thursday.
+EmployeeID: 172, worked more than one shift on Wednesday.
+EmployeeID: 173, worked more than one shift on Friday.
+EmployeeID: 173, worked more than one shift on Saturday.
+EmployeeID: 173, worked more than one shift on Thursday.
+EmployeeID: 173, worked more than one shift on Wednesday.
+EmployeeID: 174, worked more than one shift on Friday.
+EmployeeID: 174, worked more than one shift on Sunday.
+EmployeeID: 174, worked more than one shift on Wednesday.
+EmployeeID: 175, worked more than one shift on Friday.
+EmployeeID: 175, worked more than one shift on Monday.
+EmployeeID: 175, worked more than one shift on Sunday.
+EmployeeID: 176, worked more than one shift on Saturday.
+EmployeeID: 176, worked more than one shift on Thursday.
+EmployeeID: 176, worked more than one shift on Tuesday.
+EmployeeID: 177, worked more than one shift on Monday.
+EmployeeID: 177, worked more than one shift on Saturday.
+EmployeeID: 178, worked more than one shift on Saturday.
+EmployeeID: 178, worked more than one shift on Thursday.
+EmployeeID: 179, worked more than one shift on Monday.
+EmployeeID: 179, worked more than one shift on Saturday.
+EmployeeID: 179, worked more than one shift on Sunday.
+EmployeeID: 179, worked more than one shift on Thursday.
+EmployeeID: 179, worked more than one shift on Tuesday.
+EmployeeID: 180, worked more than one shift on Monday.
+EmployeeID: 180, worked more than one shift on Saturday.
+EmployeeID: 180, worked more than one shift on Sunday.
+EmployeeID: 180, worked more than one shift on Wednesday.
+EmployeeID: 181, worked more than one shift on Friday.
+EmployeeID: 181, worked more than one shift on Monday.
+EmployeeID: 181, worked more than one shift on Thursday.
+EmployeeID: 181, worked more than one shift on Tuesday.
+EmployeeID: 181, worked more than one shift on Wednesday.
+EmployeeID: 182, worked more than one shift on Friday.
+EmployeeID: 182, worked more than one shift on Monday.
+EmployeeID: 182, worked more than one shift on Saturday.
+EmployeeID: 183, worked more than one shift on Friday.
+EmployeeID: 183, worked more than one shift on Saturday.
+EmployeeID: 183, worked more than one shift on Sunday.
+EmployeeID: 183, worked more than one shift on Thursday.
+EmployeeID: 183, worked more than one shift on Wednesday.
+EmployeeID: 184, worked more than one shift on Friday.
+EmployeeID: 184, worked more than one shift on Saturday.
+EmployeeID: 185, worked more than one shift on Saturday.
+EmployeeID: 185, worked more than one shift on Wednesday.
+EmployeeID: 186, worked more than one shift on Thursday.
+EmployeeID: 186, worked more than one shift on Tuesday.
+EmployeeID: 187, worked more than one shift on Saturday.
+EmployeeID: 187, worked more than one shift on Sunday.
+EmployeeID: 187, worked more than one shift on Thursday.
+EmployeeID: 187, worked more than one shift on Tuesday.
+EmployeeID: 187, worked more than one shift on Wednesday.
+EmployeeID: 188, worked more than one shift on Friday.
+EmployeeID: 188, worked more than one shift on Monday.
+EmployeeID: 189, worked more than one shift on Friday.
+EmployeeID: 189, worked more than one shift on Monday.
+EmployeeID: 189, worked more than one shift on Sunday.
+EmployeeID: 190, worked more than one shift on Friday.
+EmployeeID: 190, worked more than one shift on Sunday.
+EmployeeID: 190, worked more than one shift on Tuesday.
+EmployeeID: 190, worked more than one shift on Wednesday.
+EmployeeID: 191, worked more than one shift on Friday.
+EmployeeID: 191, worked more than one shift on Monday.
+EmployeeID: 191, worked more than one shift on Saturday.
+EmployeeID: 191, worked more than one shift on Sunday.
+EmployeeID: 191, worked more than one shift on Tuesday.
+EmployeeID: 191, worked more than one shift on Wednesday.
+EmployeeID: 192, worked more than one shift on Monday.
+EmployeeID: 192, worked more than one shift on Wednesday.
+EmployeeID: 193, worked more than one shift on Saturday.
+EmployeeID: 193, worked more than one shift on Thursday.
+EmployeeID: 194, worked more than one shift on Monday.
+EmployeeID: 194, worked more than one shift on Saturday.
+EmployeeID: 194, worked more than one shift on Thursday.
+EmployeeID: 194, worked more than one shift on Tuesday.
+EmployeeID: 194, worked more than one shift on Wednesday.
+EmployeeID: 195, worked more than one shift on Sunday.
+EmployeeID: 195, worked more than one shift on Thursday.
+EmployeeID: 196, worked more than one shift on Monday.
+EmployeeID: 197, worked more than one shift on Friday.
+EmployeeID: 197, worked more than one shift on Thursday.
+EmployeeID: 198, worked more than one shift on Monday.
+EmployeeID: 198, worked more than one shift on Thursday.
+EmployeeID: 198, worked more than one shift on Tuesday.
+EmployeeID: 198, worked more than one shift on Wednesday.
+EmployeeID: 199, worked more than one shift on Monday.
+EmployeeID: 199, worked more than one shift on Saturday.
+EmployeeID: 199, worked more than one shift on Tuesday.
+EmployeeID: 199, worked more than one shift on Wednesday.
+EmployeeID: (100,), worked more than 5 days in the week.
+EmployeeID: (103,), worked more than 5 days in the week.
+EmployeeID: (105,), worked more than 5 days in the week.
+EmployeeID: (106,), worked more than 5 days in the week.
+EmployeeID: (107,), worked more than 5 days in the week.
+EmployeeID: (108,), worked more than 5 days in the week.
+EmployeeID: (109,), worked more than 5 days in the week.
+EmployeeID: (110,), worked more than 5 days in the week.
+EmployeeID: (111,), worked more than 5 days in the week.
+EmployeeID: (112,), worked more than 5 days in the week.
+EmployeeID: (117,), worked more than 5 days in the week.
+EmployeeID: (118,), worked more than 5 days in the week.
+EmployeeID: (119,), worked more than 5 days in the week.
+EmployeeID: (120,), worked more than 5 days in the week.
+EmployeeID: (122,), worked more than 5 days in the week.
+EmployeeID: (123,), worked more than 5 days in the week.
+EmployeeID: (125,), worked more than 5 days in the week.
+EmployeeID: (126,), worked more than 5 days in the week.
+EmployeeID: (128,), worked more than 5 days in the week.
+EmployeeID: (129,), worked more than 5 days in the week.
+EmployeeID: (130,), worked more than 5 days in the week.
+EmployeeID: (132,), worked more than 5 days in the week.
+EmployeeID: (133,), worked more than 5 days in the week.
+EmployeeID: (134,), worked more than 5 days in the week.
+EmployeeID: (135,), worked more than 5 days in the week.
+EmployeeID: (136,), worked more than 5 days in the week.
+EmployeeID: (138,), worked more than 5 days in the week.
+EmployeeID: (139,), worked more than 5 days in the week.
+EmployeeID: (140,), worked more than 5 days in the week.
+EmployeeID: (141,), worked more than 5 days in the week.
+EmployeeID: (143,), worked more than 5 days in the week.
+EmployeeID: (146,), worked more than 5 days in the week.
+EmployeeID: (148,), worked more than 5 days in the week.
+EmployeeID: (151,), worked more than 5 days in the week.
+EmployeeID: (153,), worked more than 5 days in the week.
+EmployeeID: (154,), worked more than 5 days in the week.
+EmployeeID: (156,), worked more than 5 days in the week.
+EmployeeID: (157,), worked more than 5 days in the week.
+EmployeeID: (158,), worked more than 5 days in the week.
+EmployeeID: (159,), worked more than 5 days in the week.
+EmployeeID: (160,), worked more than 5 days in the week.
+EmployeeID: (161,), worked more than 5 days in the week.
+EmployeeID: (164,), worked more than 5 days in the week.
+EmployeeID: (166,), worked more than 5 days in the week.
+EmployeeID: (167,), worked more than 5 days in the week.
+EmployeeID: (169,), worked more than 5 days in the week.
+EmployeeID: (171,), worked more than 5 days in the week.
+EmployeeID: (172,), worked more than 5 days in the week.
+EmployeeID: (179,), worked more than 5 days in the week.
+EmployeeID: (180,), worked more than 5 days in the week.
+EmployeeID: (183,), worked more than 5 days in the week.
+EmployeeID: (184,), worked more than 5 days in the week.
+EmployeeID: (187,), worked more than 5 days in the week.
+EmployeeID: (188,), worked more than 5 days in the week.
+EmployeeID: (189,), worked more than 5 days in the week.
+EmployeeID: (191,), worked more than 5 days in the week.
+EmployeeID: (192,), worked more than 5 days in the week.
+EmployeeID: (194,), worked more than 5 days in the week.
+EmployeeID: (196,), worked more than 5 days in the week.
